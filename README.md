@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Read full article [`here`](https://cloudcoders.xyz/blog/how-to-use-swr-in-next-js-client-side-data-fetching-technique).
 
 ## Getting Started
 
